@@ -1,0 +1,15 @@
+one:
+  full_name: Jane Doe
+  job_title: Software Engineer
+  country: United States
+  salary: 95000.00
+  email: jane.doe@example.com
+  department: Engineering
+
+two:
+  full_name: Carlos Martinez
+  job_title: Product Manager
+  country: Mexico
+  salary: 85000.00
+  email: carlos.martinez@example.com
+  department: Product
